@@ -1,0 +1,35 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start; 
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start; 
+  height: 100vh;
+  width: 100vw;
+  padding-top: 50px; 
+}
+
+h1 {
+  font-size: 2em; 
+  font-weight: bold;
+  margin-bottom: 10px; 
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: pink;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 3px solid black;
+  font-size: 18px; 
+  margin-top: 18px;
+}
