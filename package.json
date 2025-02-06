@@ -2,7 +2,7 @@
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://yashercpu.github.io/vite-project",
+  "homepage": "https://yasher-cpu.github.io/vite-project",
   "type": "module",
   "scripts": {
     "dev": "vite",
